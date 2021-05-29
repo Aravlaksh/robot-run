@@ -1,4 +1,4 @@
-# Platformer
+# Robot Runner
 ## Goal
 
 Collect the gems and get the robot to the gate. Pass the level to win.
