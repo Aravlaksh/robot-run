@@ -1,0 +1,11 @@
+Characters, Tiles, and Items
+https://kenney.nl/assets/simplified-platformer-pack
+
+Fonts:
+https://www.1001fonts.com/dinomouse-font.html
+
+Sounds:
+https://opengameart.org/content/8-bit-sound-effects-library
+
+Music:
+
