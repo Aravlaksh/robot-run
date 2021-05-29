@@ -1,7 +1,7 @@
 
 ## Goal
 
-collect the gems and get the robot to the gate. 
+Collect the gems and get the robot to the gate. Pass the level to win.
 
 ## Controls
 Use arrows to run and jump.
